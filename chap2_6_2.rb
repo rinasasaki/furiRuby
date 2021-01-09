@@ -11,3 +11,4 @@ number=gets.to_i
 if number <=2 || number >=6
   puts "食べなすぎと食べすぎ"
 end
+
