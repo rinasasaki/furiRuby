@@ -7,4 +7,4 @@ def add_charge(bill)
 end
 
 puts add_charge(40000)
-puts add_charge(-1000)
+puts add_charge (-1000)
