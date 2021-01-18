@@ -17,3 +17,5 @@ numbers = (1..60).to_a
 numbers.each do |n|
   puts fizzbuzz(n)
 end
+
+
